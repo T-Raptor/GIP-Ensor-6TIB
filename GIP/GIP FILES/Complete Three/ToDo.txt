@@ -1,0 +1,28 @@
+// SITE
+ > images categorie
+security
+GRID layout
+
+// DB
+minder gegevens klant
+geen klant.telefoonnummer
+geen klant.geboortedatum
+geen klant.geslacht
+geen product.aantalbestellingen
+
+// LONG RUN
+GDPR
+
+
+
+// VRAGEN DONNAY
+GRID voor onbepaalde aantal producten
+commentaar
+
+
+// VOLGENDE
+inloggen
+winkelkar
+
+// VOLGENDE EVALUATIE
+5de evalueren
